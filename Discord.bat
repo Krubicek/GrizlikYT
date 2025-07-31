@@ -10,7 +10,7 @@ echo.
 pause
 
 cls
-set /p heslo=Zadejte heslo: 
+set /p heslo=Zadejte heslo: NzjbvcnoZjnvlpjvh
 :reset
 if %heslo% == 1234 (
     echo Vazne jsi cekal, ze tohle bude fungovat???
